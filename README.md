@@ -16,5 +16,6 @@
 
 ## What I've done:
 Day 1: [Contributed footer social icons to 100DaysOfCommits Site](https://github.com/100DaysOfCommits/100DaysOfCommits.github.io/commit/750a3fe59f110d6ca1418b7071021ea25713e00c)
+
 Day 2: [updated styling to coordinate with logo for 100DaysOfCommits site](https://github.com/100DaysOfCommits/100DaysOfCommits.github.io/pull/32/commits/84d612e51f4b46e269238b42b1c8c52762fdecf8)
 
