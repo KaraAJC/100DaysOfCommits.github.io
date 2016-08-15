@@ -1,7 +1,7 @@
 # Kara does 100 Days of Commits
 ## Description
 
-[100DaysOfCommits](http://100daysofcommits.github.io) is a challenge for developers to commit code for the next 100 days starting August 1, 2016. I have taken on this challenge, and intend on making the most of it! 
+[100DaysOfCommits](http://100daysofcommits.github.io) is a challenge for developers to commit code for the next 100 days starting August 1, 2016. I have taken on this challenge, and intend on making the most of it!
 
 ## What I'd like to do:
 - [ ] Update the Readme on all my Repos
